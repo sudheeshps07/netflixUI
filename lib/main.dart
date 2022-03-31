@@ -19,7 +19,7 @@ class NetflixApp extends StatelessWidget {
         fontFamily: GoogleFonts.montserrat().fontFamily,
         scaffoldBackgroundColor: Colors.black,
         primarySwatch: Colors.blue,
-        backgroundColor:backgroundColor,
+        backgroundColor:blackbackgroundColor,
         textTheme: const TextTheme(
           bodyText1: TextStyle(color: Colors.white),
           bodyText2: TextStyle(color: Colors.white),
